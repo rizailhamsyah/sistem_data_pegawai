@@ -7,7 +7,7 @@
 	<title><?= $title ?> - <?= $this->config->item('title'); ?></title>
 
 	<!-- Favicon -->
-	<link rel="shortcut icon" href="<?= base_url(); ?>global_assets/images/tut.png">
+	<link rel="shortcut icon" href="#">
 
 	<!-- Global stylesheets -->
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400,300,100,500,700,900" rel="stylesheet" type="text/css">
